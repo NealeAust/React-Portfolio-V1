@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio-V1/static/css/main.6b73414c.css",
+    "main.js": "/React-Portfolio-V1/static/js/main.f43cf2ed.js",
+    "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio-V1/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Password-Generator.png": "/React-Portfolio-V1/static/media/Password-Generator.2378ec354b6c937bb8c7.png",
+    "index.html": "/React-Portfolio-V1/index.html",
+    "main.6b73414c.css.map": "/React-Portfolio-V1/static/css/main.6b73414c.css.map",
+    "main.f43cf2ed.js.map": "/React-Portfolio-V1/static/js/main.f43cf2ed.js.map",
+    "787.a2cb61a6.chunk.js.map": "/React-Portfolio-V1/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b73414c.css",
+    "static/js/main.f43cf2ed.js"
+  ]
+}
