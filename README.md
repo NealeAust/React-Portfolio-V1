@@ -76,6 +76,7 @@ The user can also click on the **Github NealeAust** at the bottom right-hand cor
 
 Link to deployed application:
 
+https://nealeaust.github.io/React-Portfolio-V1/
 
 Screenshot:
 
