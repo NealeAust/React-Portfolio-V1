@@ -1,11 +1,12 @@
 import React from 'react';
 import '../App.css'
+import resumePdf from "../images/Resume.pdf"
 
 function Resume() {
   return (
     <div>
       {/* User able to download PDF copy of Resume */}
-      <a href="/images/Resume.pdf" download >
+      <a href={resumePdf} download >
         <h4>Download Resume</h4>
       </a>
 
