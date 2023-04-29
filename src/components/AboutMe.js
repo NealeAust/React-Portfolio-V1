@@ -1,5 +1,5 @@
 import React from 'react';
-
+import aboutMepic from "../images/Neale.jpg"
 
 function AboutMe() {
     return (
@@ -8,7 +8,7 @@ function AboutMe() {
 
             
             <div>
-       <img className="my-pic"  src = "/images/Neale.jpg" alt = "Neale Chapman" />
+       <img className="my-pic"  src = {aboutMepic} alt = "Neale Chapman" />
       </div>
                 <p className="AboutMe" >
                     I live in Craigieburn Melbourne. I am married to Jackie, we do not have children.

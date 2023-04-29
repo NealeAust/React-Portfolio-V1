@@ -1,4 +1,4 @@
-# React-Portfolio
+# React-Portfolio-V1
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -40,6 +40,8 @@ The steps taken to build this webpage included but were not limited to the follo
 - Initiated project by installing **npx create-react-app**, which created almost the whole file structure.
 
 - Created the necessary component files: **Header.js**, **Footer.js**, **AboutMe.js**, **Portfolio.js**, **ContactMe.js**, & **Resume.js**.
+s2
+- Created an images folder to store images, that were imported as required.
 
 - Within the **Header.js** component, coded the necessary *(onClick) links* to *AboutMe*, *Portfolio*, *ContactMe* & *Resume* pages.
 
